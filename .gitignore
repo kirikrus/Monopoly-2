@@ -1,0 +1,10 @@
+# Godot 4+ specific ignores
+.godot/
+/android/
+/build/
+*.glb
+*.tscn
+*.tres
+*.jpg
+*.jpeg
+*.png
